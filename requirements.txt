@@ -1,0 +1,7 @@
+npm install -D tailwindcss@latest postcss@latest autoprefixer@latest
+npx tailwindcss init
+npm install primeicons
+npm install vue-router
+npm install json-server
+to run server : npm run server
+npm install axios
