@@ -6,3 +6,4 @@ npm install json-server
 to run server : npm run server
 npm install axios
 npm i vue-spinner
+npm install vue-toastification@next

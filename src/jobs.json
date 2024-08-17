@@ -1,21 +1,21 @@
 {
   "jobs": [
     {
-      "id": 1,
-      "title": "Senior Vue Developer",
       "type": "Full-Time",
+      "title": "Younes Boukdir",
       "description": "We are seeking a talented Front-End Developer to join our team in Boston, MA. The ideal candidate will have strong skills in HTML, CSS, and JavaScript, with experience working with modern JavaScript frameworks such as Vue or Angular.",
-      "location": "Boston, MA",
       "salary": "$70K - $80K",
+      "location": "Boston, MA",
       "company": {
         "name": "NewTek Solutions",
         "description": "NewTek Solutions is a leading technology company specializing in web development and digital solutions. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
-        "contactEmail": "contact@teksolutions.com",
-        "contactPhone": "555-555-5555"
-      }
+        "contactEmail": "younesboukdir100@gmail.com",
+        "contactPhone": "0681592917"
+      },
+      "id": "1"
     },
     {
-      "id": 2,
+      "id": "2",
       "title": "Front-End Engineer (Vue)",
       "type": "Full-Time",
       "description": "Join our team as a Front-End Developer in sunny Miami, FL. We are looking for a motivated individual with a passion for crafting beautiful and responsive web applications. Experience with UI/UX design principles and a strong attention to detail are highly desirable.",
@@ -29,7 +29,7 @@
       }
     },
     {
-      "id": 3,
+      "id": "3",
       "title": "Vue.js Developer",
       "type": "Full-Time",
       "description": "Are you passionate about front-end development? Join our team in vibrant Brooklyn, NY, and work on exciting projects that make a difference. We offer competitive compensation and a collaborative work environment where your ideas are valued.",
@@ -43,7 +43,7 @@
       }
     },
     {
-      "id": 4,
+      "id": "4",
       "title": "Vue Front-End Developer",
       "type": "Part-Time",
       "description": "Join our team as a Part-Time Front-End Developer in beautiful Pheonix, AZ. We are looking for a self-motivated individual with a passion for creating engaging user experiences. This position offers flexible hours and the opportunity to work remotely.",
@@ -57,7 +57,7 @@
       }
     },
     {
-      "id": 5,
+      "id": "5",
       "title": "Full Stack Vue Developer",
       "type": "Full-Time",
       "description": "Exciting opportunity for a Full-Time Front-End Developer in bustling Atlanta, GA. We are seeking a talented individual with a passion for building elegant and scalable web applications. Join our team and make an impact!",
@@ -71,7 +71,7 @@
       }
     },
     {
-      "id": 6,
+      "id": "6",
       "title": "Vue Native Developer",
       "type": "Full-Time",
       "description": "Join our team as a Front-End Developer in beautiful Portland, OR. We are looking for a skilled and enthusiastic individual to help us create innovative web solutions. Competitive salary and great benefits package available.",
@@ -82,6 +82,202 @@
         "description": "Port Solutions is a leading technology company specializing in software development and digital marketing. We are committed to providing our clients with cutting-edge solutions and our employees with a supportive and rewarding work environment.",
         "contactEmail": "contact@ipsumlorem.com",
         "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "acf2",
+      "type": "Remote",
+      "title": "dkcnsd",
+      "description": "dskncd",
+      "salary": "Over $200K",
+      "location": "dkjs",
+      "company": {
+        "name": "dcndjs",
+        "description": "dkjscndc",
+        "contactEmail": "younesboukdir100@gmail.com",
+        "contactPhone": "0681592917"
+      }
+    },
+    {
+      "id": "c73e",
+      "type": "Remote",
+      "title": "dkcnsd",
+      "description": "dskncd",
+      "salary": "Over $200K",
+      "location": "dkjs",
+      "company": {
+        "name": "dcndjs",
+        "description": "dkjscndc",
+        "contactEmail": "younesboukdir100@gmail.com",
+        "contactPhone": "0681592917"
+      }
+    },
+    {
+      "id": "7eed",
+      "type": "Remote",
+      "title": "dkcnsd",
+      "description": "dskncd",
+      "salary": "Over $200K",
+      "location": "dkjs",
+      "company": {
+        "name": "dcndjs",
+        "description": "dkjscndc",
+        "contactEmail": "younesboukdir100@gmail.com",
+        "contactPhone": "0681592917"
+      }
+    },
+    {
+      "id": "e74d",
+      "type": "Remote",
+      "title": "dkcnsd",
+      "description": "dskncd",
+      "salary": "Over $200K",
+      "location": "dkjs",
+      "company": {
+        "name": "dcndjs",
+        "description": "dkjscndc",
+        "contactEmail": "younesboukdir100@gmail.com",
+        "contactPhone": "0681592917"
+      }
+    },
+    {
+      "id": "2b44",
+      "type": "Remote",
+      "title": "kcdk",
+      "description": "slckmkc",
+      "salary": "Over $200K",
+      "location": "dsknc",
+      "company": {
+        "name": "slkc s",
+        "description": "sdccsdc",
+        "contactEmail": "younesboukdir100@gmail.com",
+        "contactPhone": "0681592917"
+      }
+    },
+    {
+      "id": "d79d",
+      "type": "Remote",
+      "title": "klndn",
+      "description": "kcndksn",
+      "salary": "Over $200K",
+      "location": "ldksncdk",
+      "company": {
+        "name": "lkdncd",
+        "description": "dkslcndsk",
+        "contactEmail": "younesboukdir100@gmail.com",
+        "contactPhone": "0681592917"
+      }
+    },
+    {
+      "id": "0af2",
+      "type": "Remote",
+      "title": "flkem",
+      "description": "kndskv",
+      "salary": "Over $200K",
+      "location": "nklns",
+      "company": {
+        "name": "klwnckds",
+        "description": "lkcnskld",
+        "contactEmail": "younesboukdir100@gmail.com",
+        "contactPhone": "0681592917"
+      }
+    },
+    {
+      "id": "7878",
+      "type": "Remote",
+      "title": "Keaton Giles",
+      "description": "Aliqua Lorem maxime",
+      "salary": "$70K - $80K",
+      "location": "Eos impedit fugit",
+      "company": {
+        "name": "Finch Carpenter Inc",
+        "description": "Magni eligendi excep",
+        "contactEmail": "vanycomaj@mailinator.com",
+        "contactPhone": "+1 (662) 379-9345"
+      }
+    },
+    {
+      "id": "0558",
+      "type": "Internship",
+      "title": "Colin Byers",
+      "description": "Culpa qui tempore ",
+      "salary": "$175K - $200K",
+      "location": "Aliquam veniam comm",
+      "company": {
+        "name": "Warner Reynolds LLC",
+        "description": "Ipsa magni voluptat",
+        "contactEmail": "noqap@mailinator.com",
+        "contactPhone": "+1 (595) 225-5932"
+      }
+    },
+    {
+      "id": "fcd3",
+      "type": "Full-Time",
+      "title": "Lael Donaldson",
+      "description": "Officia beatae dolor",
+      "salary": "Under $50K",
+      "location": "In quia sed omnis re",
+      "company": {
+        "name": "Daniel and Mosley Plc",
+        "description": "Anim et molestiae in",
+        "contactEmail": "nilusuxe@mailinator.com",
+        "contactPhone": "+1 (514) 605-8813"
+      }
+    },
+    {
+      "id": "f526",
+      "type": "Remote",
+      "title": "Amela Gibbs",
+      "description": "Dolore commodo incid",
+      "salary": "Under $50K",
+      "location": "Culpa ad nulla qui v",
+      "company": {
+        "name": "Warner and Dunlap Traders",
+        "description": "Amet repudiandae re",
+        "contactEmail": "noniwa@mailinator.com",
+        "contactPhone": "+1 (142) 252-8359"
+      }
+    },
+    {
+      "id": "e842",
+      "type": "Full-Time",
+      "title": "Lilah Winters",
+      "description": "Nam voluptates porro",
+      "salary": "$90K - $100K",
+      "location": "Nostrud nostrum anim",
+      "company": {
+        "name": "Nash Sawyer Co",
+        "description": "Dolorem corporis eiu",
+        "contactEmail": "daraguboxa@mailinator.com",
+        "contactPhone": "+1 (777) 504-7543"
+      }
+    },
+    {
+      "id": "bc0f",
+      "type": "Full-Time",
+      "title": "Senior Vue Developer",
+      "description": "We are seeking a talented Front-End Developer to join our team in Boston, MA. The ideal candidate will have strong skills in HTML, CSS, and JavaScript, with experience working with modern JavaScript frameworks such as Vue or Angular.",
+      "salary": "$70K - $80K",
+      "location": "Boston, MA",
+      "company": {
+        "name": "NewTek Solutions",
+        "description": "NewTek Solutions is a leading technology company specializing in web development and digital solutions. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
+        "contactEmail": "contact@teksolutions.com",
+        "contactPhone": "063232"
+      }
+    },
+    {
+      "id": "2cbe",
+      "type": "Full-Time",
+      "title": "Senior Vue Developer",
+      "description": "We are seeking a talented Front-End Developer to join our team in Boston, MA. The ideal candidate will have strong skills in HTML, CSS, and JavaScript, with experience working with modern JavaScript frameworks such as Vue or Angular.",
+      "salary": "$70K - $80K",
+      "location": "Boston, MA",
+      "company": {
+        "name": "NewTek Solutions",
+        "description": "NewTek Solutions is a leading technology company specializing in web development and digital solutions. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
+        "contactEmail": "contact@teksolutions.com",
+        "contactPhone": "2222"
       }
     }
   ]

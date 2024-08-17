@@ -1,13 +1,14 @@
-import './assets/main.css'
+import "./assets/main.css";
+import { createApp } from "vue";
+import App from "./App.vue";
+import router from "./router";
+import "primeicons/primeicons.css";
+import Toast from "vue-toastification";
+import "vue-toastification/dist/index.css";
 
-import { createApp } from 'vue'
-import App from './App.vue'
-import router from './router'
+const app = createApp(App);
 
-import 'primeicons/primeicons.css'
+app.use(router);
+app.use(Toast);
 
-const app = createApp(App)
-
-app.use(router)
-
-app.mount('#app')
+app.mount("#app");
